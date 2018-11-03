@@ -1,4 +1,4 @@
 package kosiorski.springframework.petclinic.model;
 
-public class Owner extends Person {
+public class Pet extends Person {
 }
